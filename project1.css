@@ -1,0 +1,177 @@
+
+
+
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column; 
+  align-items: center;
+  background-color: lightblue;
+
+}
+
+.Box {
+margin-top: 80px;
+  width: 450px;
+
+  background:rgba(255, 255, 255, 1);
+margin-bottom: 80px;
+height: 690px;
+border-radius: 25px;
+
+
+}
+
+.girlimage {
+  border-radius: 25px 25px 0px 0px;
+}
+
+h1 {
+  
+height: 37px;
+top: 265px;
+left: 48px;
+line-height: 37.04px;
+
+  color: rgba(31, 46, 85, 1);
+  text-align: center;
+}
+
+.paragraph {
+  font-family: Red Hat Display;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  
+  color: rgba(113, 127, 166, 1);
+
+}
+
+.MusicIconAndTextBox{
+
+  font-size: 16px;
+  
+background: rgba(247, 249, 255, 1);
+padding: 25px;
+border-radius: 12px;
+display: flex ;
+flex-direction: row; 
+margin-bottom: 5px;
+align-items: center;
+
+
+}
+ 
+.MusicIcon{
+  width: 48px;
+  height: 48px;
+margin-left: 20px;
+  
+}
+
+.H2 {
+  font-family: Red Hat Display;
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 21.17px;
+  text-align: left; 
+  margin-bottom: 5px;
+  margin-left: 20px;
+color: black;
+
+
+
+} 
+
+.H3 {
+  width: 92px;
+height: 21px;
+top: 27px;
+gap: 0px;
+opacity: 0px;
+
+  font-family: Red Hat Display;
+font-size: 16px;
+font-weight: 400;
+line-height: 21.17px;
+text-align: left;
+margin-top: 5px;
+margin-left: 20px;
+} 
+
+
+.H4 {
+  width: 52px;
+height: 19px;
+top: 15px;
+left: 254px;
+gap: 0px;
+opacity: 0px;
+font-family: Red Hat Display;
+font-size: 14px;
+font-weight: 700;
+line-height: 18.52px;
+text-align: left;
+color: rgba(56, 42, 225, 1);
+text-decoration: underline;
+  margin-left: 110px;
+}
+
+
+.ContainerPayment{
+  width: 354px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+
+  background: rgba(56, 42, 225, 1);
+  box-shadow: 0px 20px 20px 0px rgba(56, 42, 225, 0.1903);
+display: flex;
+justify-content: center;
+margin-left: 47.5px;
+margin-top: 15px;
+}
+
+
+.Payment{
+  width: 150px;
+  height: 20px;
+  top: 15px;
+  left: 102px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Red Hat Display;
+font-size: 15px;
+font-weight: 900;
+line-height: 19.85px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+}
+
+
+.Order{
+display: flex;
+justify-content: center;
+
+}
+
+
+.H5 {
+
+  width: 96px;
+  height: 20px;
+  top: 629px;
+  left: 176px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Red Hat Display;
+font-size: 15px;
+font-weight: 900;
+line-height: 19.85px;
+text-align: left;
+color: rgba(113, 127, 166, 1);
+margin-top: 30px;
+
+}
